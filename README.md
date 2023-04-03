@@ -25,6 +25,7 @@ https://user-images.githubusercontent.com/79544046/229377404-c2f73f66-bd16-44b2-
 
 ### Option 2: Export as Mardown File (.md)
 
+https://user-images.githubusercontent.com/79544046/229403567-a87671b0-5c47-42d3-b030-e9574b61df0a.mp4
 
 ### Option 3: Export as Microsoft Word Document File (.docx)
 
