@@ -16,3 +16,18 @@ A python-based tool that extracts and organizes annotations from [Linked In Lear
 - Creates a new file if user chooses to create a file that does not previously exist
 - Appends to the file if user chooses a path with an existing file as output file path
 
+\* _the notes' organization is based on my personal note taking style (including the color in the .docx file), so feel free to edit the code and customize it!_
+
+## Demo
+### Option 1: Export as Text File (.txt)
+
+https://user-images.githubusercontent.com/79544046/229377404-c2f73f66-bd16-44b2-8587-feee5b5cf438.mp4
+
+### Option 2: Export as Mardown File (.md)
+
+https://user-images.githubusercontent.com/79544046/229403567-a87671b0-5c47-42d3-b030-e9574b61df0a.mp4
+
+### Option 3: Export as Microsoft Word Document File (.docx)
+
+https://user-images.githubusercontent.com/79544046/229377422-d94bf5d8-50f7-4682-b8a7-96ee06a10020.mp4
+
