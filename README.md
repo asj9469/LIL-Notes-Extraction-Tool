@@ -19,10 +19,14 @@ A python-based tool that extracts and organizes annotations from [Linked In Lear
 \* _the notes' organization is based on my personal note taking style (including the color in the .docx file), so feel free to edit the code and customize it!_
 
 ## How Do I Run This???
-- If you have python and an IDE (e.g. VS Code) on your computer, clone this repo or download the zip file
-  - Click the green button that says "<> Code" to view these download options
-  - Extract the folder if you downloaded the zip file
-  - Once opened in the IDE, navigate to the "functions.py" file and execute the code
+1. Download the zip file or clone the repo
+    - Click the green button that says "<> Code" to view these download options
+    - Extract the folder if you downloaded the zip file
+2. If you are on Windows:
+    - run the .exe file included in the 
+3. If you're on mac and have python and an IDE (e.g. VS Code)
+    - Open the extracted folder on your IDE of choice
+    - Navigate to the "functions.py" file and execute the code
 
 ## Demo
 ### Option 1: Export as Text File (.txt)
