@@ -12,9 +12,8 @@ A python-based tool that extracts and organizes annotations from [Linked In Lear
 - Takes in the original .txt file downloaded directly from [Linked In Learning](https://www.linkedin.com/learning) as an input
 - Provides user the option to pick from different output formats (.txt, .md, .docx)
 - "Cleans up" the original text file into a more readable and organized structure
-- Filers out necessary information (course title, chapter, video title, and annotations) and adds to the new output file
-- Creates a new file if user chooses to create a file that does not previously exist
-- Appends to the file if user chooses a path with an existing file as output file path
+- Filters out necessary information (course title, chapter, video title, and annotations) and adds to the new output file
+- Creates a new file if user chooses to create a file that does not previously exist / replaces the file if it exists
 
 \* _the notes' organization is based on my personal note taking style (including the color in the .docx file), so feel free to edit the code and customize it!_
 
