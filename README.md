@@ -1,4 +1,4 @@
-# Linked In Learning Annotation Extraction Tool 
+# LinkedIn Learning Annotation Extraction Tool 
 <img align="right" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 
 ## Brief Description:
