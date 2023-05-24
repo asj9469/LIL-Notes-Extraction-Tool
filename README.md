@@ -4,7 +4,20 @@
 ## Brief Description:
 A python-based tool that extracts and organizes annotations from [Linked In Learning (LIL)](https://www.linkedin.com/learning) notebooks in a more readable format (.txt, .md, .docx).
 
-## Background:
+## Demo
+### Option 1: Export as Text File (.txt)
+
+https://user-images.githubusercontent.com/79544046/229377404-c2f73f66-bd16-44b2-8587-feee5b5cf438.mp4
+
+### Option 2: Export as Markdown File (.md)
+
+https://user-images.githubusercontent.com/79544046/229403567-a87671b0-5c47-42d3-b030-e9574b61df0a.mp4
+
+### Option 3: Export as Microsoft Word Document File (.docx)
+
+https://user-images.githubusercontent.com/79544046/229377422-d94bf5d8-50f7-4682-b8a7-96ee06a10020.mp4
+
+## Why Do We Need This?
 - The exported notebook from LIL includes formatting and details such as time stamps of the location of which the note was taken.
 - Although the included details may be helpful when referring back to the video, it adds unnecessary challenges to students who try to study with the annotations only and/or merge them with other study materials
 
@@ -27,16 +40,5 @@ A python-based tool that extracts and organizes annotations from [Linked In Lear
     - Open the extracted folder on your IDE of choice
     - Navigate to the "functions.py" file and execute the code
 
-## Demo
-### Option 1: Export as Text File (.txt)
 
-https://user-images.githubusercontent.com/79544046/229377404-c2f73f66-bd16-44b2-8587-feee5b5cf438.mp4
-
-### Option 2: Export as Mardown File (.md)
-
-https://user-images.githubusercontent.com/79544046/229403567-a87671b0-5c47-42d3-b030-e9574b61df0a.mp4
-
-### Option 3: Export as Microsoft Word Document File (.docx)
-
-https://user-images.githubusercontent.com/79544046/229377422-d94bf5d8-50f7-4682-b8a7-96ee06a10020.mp4
 
